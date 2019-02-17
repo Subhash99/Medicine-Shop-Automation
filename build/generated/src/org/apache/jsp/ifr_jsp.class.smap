@@ -1,0 +1,19 @@
+SMAP
+ifr_jsp.java
+JSP
+*S JSP
+*F
++ 0 ifr.jsp
+ifr.jsp
++ 1 Customer.jsp
+Customer.jsp
+*L
+1:51
+1#1,127:52
+2#0,10:179
+11,3:189
+14,2:193
+15,101:195
+116,43:297
+158,4:340
+*E
